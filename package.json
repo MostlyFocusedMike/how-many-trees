@@ -1,0 +1,21 @@
+{
+  "name": "how-many-trees",
+  "version": "1.0.0",
+  "description": "A sled based algo challenge",
+  "main": "index.js",
+  "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MostlyFocusedMike/how-many-trees.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MostlyFocusedMike/how-many-trees/issues"
+  },
+  "homepage": "https://github.com/MostlyFocusedMike/how-many-trees#readme"
+}
