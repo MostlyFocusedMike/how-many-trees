@@ -88,4 +88,4 @@ So your sled goes 3 right and 1 down, but what would it do if the pattern change
 - Right 7, down 1. = ???
 - Right 1, down 2. = ???
 
-Take the answer from each one of those new trajectories, and multiply them together, what answwer would you get? hint: It's around a billion
+Take the answer from each one of those new trajectories, and multiply them together, what answer would you get? hint: It's around a billion
