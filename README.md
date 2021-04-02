@@ -5,7 +5,7 @@
 ## Setup
 You are sledding down a hill in a very strong sled, so you can hit trees. The question is: how many trees WILL you hit?
 
-You have a grid of squares, and your sled moves 3 to the right, and 1 down. If you start in the top left corner, what is the number of trees that you will encounter. Note that trees have no impact on your velocity. Like I said, your sled is STRONG.
+You have a grid of squares, and your sled moves 3 to the right, and 1 down. If you start in the top left corner, what is the number of trees that you will encounter. Your starting square will never have a tree in it. Note that trees have no impact on your velocity. Like I said, your sled is STRONG.
 
 ## The Terrain
 In each cell there is either a tree `(#)` or nothing `(.)`
