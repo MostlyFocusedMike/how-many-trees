@@ -1,7 +1,7 @@
 const inputs = require('./inputs')
 
 const getNumberOfTrees = (inputs) => {
-    const numOfTrees = 0;
+    let numOfTrees = 0;
     return numOfTrees;
 }
 
